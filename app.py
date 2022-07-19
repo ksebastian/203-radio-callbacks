@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 myheading1='How to use callbacks'
 tabtitle = 'xkcd'
 list_of_options=['box plot', 'correlation', 'git commit', 'machinelearning']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'machine_learning.png']
+list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'machine_learning.png']
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/ksebastian/203-radio-callbacks.git'
 
